@@ -7,7 +7,7 @@ $(document).ready(function() {
      const userImput = $("#userImput".val())
       for (let i = 0; i <= userImput; i ++); 
     if (i)
-      console.log(beepBoop())
+      console.log()
     } 
   beepBoop;
   })
